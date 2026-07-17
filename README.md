@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay M Nadig</h1>
-<h3 align="center">Aspiring Software Engineer | Building Scalable Software Solutions | Exploring Backend Systems, AI & Modern Technologies 🇮🇳</h3>
+<h3 align="center">Aspiring Software Engineer | Building Scalable Software Solutions | Exploring Backend Systems, AI & Modern Technologies </h3>
 
 <p align="center">
 Passionate about building scalable software, solving complex problems, and continuously learning modern technologies.
