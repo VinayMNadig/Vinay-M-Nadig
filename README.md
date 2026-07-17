@@ -27,7 +27,6 @@ Passionate about building scalable software, solving complex problems, and conti
 - ⚡ Fun Fact: **I enjoy transforming ideas into real-world software solutions.**
 
 ---
-<h1 align="center">Hi 👋, I'm Vinay M Nadig</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Java+Developer;Full-Stack+Developer;DSA+Enthusiast;Always+Learning+New+Technologies" />
@@ -117,15 +116,6 @@ Passionate about building scalable software, solving complex engineering problem
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaymNadig&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vinaymNadig&theme=tokyonight&hide_border=true)
 
 ---
 
