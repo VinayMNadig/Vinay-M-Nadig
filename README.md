@@ -118,7 +118,12 @@ Passionate about building scalable software, solving complex engineering problem
 
 ## 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaymNadig&layout=compact&theme=tokyonight&hide_border=true)
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vinaymNadig&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaymNadig&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+</p>
 
 ---
 
