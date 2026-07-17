@@ -96,7 +96,7 @@ Passionate about building scalable software, solving complex engineering problem
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vinay-m-nadig/">
+  <a href="https://www.linkedin.com/in/vinaymnadig">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
