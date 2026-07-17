@@ -46,42 +46,34 @@ Passionate about building scalable software, solving complex engineering problem
 
 ## 🚀 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 • 𝗦𝗸𝗶𝗹𝗹𝘀
 
-## 🚀 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 • 𝗦𝗸𝗶𝗹𝗹𝘀
-
 <p align="center">
 
-<table align="center" cellspacing="12">
-<tr>
-<td align="center"><img height="38" src="IMAGE1_URL"/></td>
-<td align="center"><img height="38" src="IMAGE2_URL"/></td>
-<td align="center"><img height="38" src="IMAGE3_URL"/></td>
-<td align="center"><img height="38" src="IMAGE4_URL"/></td>
-<td align="center"><img height="38" src="IMAGE5_URL"/></td>
-<td align="center"><img height="38" src="IMAGE6_URL"/></td>
-</tr>
+<img height="28" src="https://github.com/user-attachments/assets/84eae26d-2632-475c-88cf-030683f45a21" />
+<img height="28" src="https://github.com/user-attachments/assets/8f49286b-5fe4-4554-8f48-e7f71f616a01" />
+<img height="28" src="https://github.com/user-attachments/assets/29654335-bda1-4ba1-bd39-d26ba39efbd0" />
+<img height="28" src="https://github.com/user-attachments/assets/4834391f-acd2-466e-9ea5-5d39dc92339c" />
+<img height="28" src="https://github.com/user-attachments/assets/17bf9111-d1d4-47e2-85cb-1713ca1e834a" />
+<img height="28" src="https://github.com/user-attachments/assets/06401739-97d1-4541-a687-4f0e2a7b5963" />
+</p>
+<br><br>
+<p align="center">
 
-<tr>
-<td align="center"><img height="38" src="IMAGE7_URL"/></td>
-<td align="center"><img height="38" src="IMAGE8_URL"/></td>
-<td align="center"><img height="38" src="IMAGE9_URL"/></td>
-<td align="center"><img height="38" src="IMAGE10_URL"/></td>
-<td align="center"><img height="38" src="IMAGE11_URL"/></td>
-<td align="center"><img height="38" src="IMAGE12_URL"/></td>
-</tr>
+<img height="28" src="https://github.com/user-attachments/assets/a23c54c1-14f4-4fcf-a69f-24df6398be24" />
+<img height="28" src="https://github.com/user-attachments/assets/d207d70a-a6cf-4c36-849a-029ae18d8034" />
+<img height="28" src="https://github.com/user-attachments/assets/2e995553-b9bd-4608-804f-76381d7810d4" />
+<img height="28" src="https://github.com/user-attachments/assets/95f223f1-c1f1-4a4e-81dd-991c89958788" />
+<img height="28" src="https://github.com/user-attachments/assets/65b27c86-031c-4938-966e-c0c4d292a848" />
+<img height="28" src="https://github.com/user-attachments/assets/0924dd8a-cb46-464e-87aa-55aeb949d655" />
+</p>
+<br><br>
+<p align="center">
 
-<tr>
-<td align="center"><img height="38" src="IMAGE13_URL"/></td>
-<td align="center"><img height="38" src="IMAGE14_URL"/></td>
-<td align="center"><img height="38" src="IMAGE15_URL"/></td>
-<td align="center"><img height="38" src="IMAGE16_URL"/></td>
-<td></td>
-<td></td>
-</tr>
-
-</table>
+<img height="28" src="https://github.com/user-attachments/assets/8a4cfc65-2fcd-4efa-8683-5df4e60aabfb" />
+<img height="28" src="https://github.com/user-attachments/assets/eb149bf7-c0ad-4546-9a37-8fcda3cace74" />
+<img height="28" src="https://github.com/user-attachments/assets/95934cf4-9747-47e9-8bf0-0129ce8e4a3f" />
+<img height="28" src="https://github.com/user-attachments/assets/cf3cde2e-3119-4b16-b86e-2167bbd76333" />
 
 </p>
-
 ---
 
 ## 📊 GitHub Statistics
