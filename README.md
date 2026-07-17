@@ -27,23 +27,6 @@ Passionate about building scalable software, solving complex problems, and conti
 - ⚡ Fun Fact: **I enjoy transforming ideas into real-world software solutions.**
 
 ---
-
-## 🚀 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 • 𝗦𝗸𝗶𝗹𝗹𝘀
-      <img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/84eae26d-2632-475c-88cf-030683f45a21" /><img width="81" height="20" alt="image" src="https://github.com/user-attachments/assets/8f49286b-5fe4-4554-8f48-e7f71f616a01" /><img width="61" height="20" alt="image" src="https://github.com/user-attachments/assets/29654335-bda1-4ba1-bd39-d26ba39efbd0" /><img width="35" height="20" alt="image" src="https://github.com/user-attachments/assets/4834391f-acd2-466e-9ea5-5d39dc92339c" /><img width="113" height="20" alt="image" src="https://github.com/user-attachments/assets/17bf9111-d1d4-47e2-85cb-1713ca1e834a" /><img width="69" height="20" alt="image" src="https://github.com/user-attachments/assets/06401739-97d1-4541-a687-4f0e2a7b5963" /><img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/a23c54c1-14f4-4fcf-a69f-24df6398be24" /><img width="61" height="20" alt="image" src="https://github.com/user-attachments/assets/d207d70a-a6cf-4c36-849a-029ae18d8034" /><img width="81" height="20" alt="image" src="https://github.com/user-attachments/assets/2e995553-b9bd-4608-804f-76381d7810d4" /><img width="43" height="20" alt="image" src="https://github.com/user-attachments/assets/95f223f1-c1f1-4a4e-81dd-991c89958788" /><img width="59" height="20" alt="image" src="https://github.com/user-attachments/assets/65b27c86-031c-4938-966e-c0c4d292a848" /><img width="71" height="20" alt="image" src="https://github.com/user-attachments/assets/0924dd8a-cb46-464e-87aa-55aeb949d655" /><img width="45" height="20" alt="image" src="https://github.com/user-attachments/assets/8a4cfc65-2fcd-4efa-8683-5df4e60aabfb" /><img width="65" height="20" alt="image" src="https://github.com/user-attachments/assets/eb149bf7-c0ad-4546-9a37-8fcda3cace74" /><img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/95934cf4-9747-47e9-8bf0-0129ce8e4a3f" /><img width="33" height="20" alt="image" src="https://github.com/user-attachments/assets/cf3cde2e-3119-4b16-b86e-2167bbd76333" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Vinay M Nadig</h1>
 
 <p align="center">
@@ -60,19 +43,7 @@ Passionate about building scalable software, solving complex engineering problem
 
 ---
 
-## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Student
-- 🌱 Currently learning **Java, Data Structures & Algorithms, Full-Stack Web Development, and Generative AI**
-- 💻 Passionate about **Software Engineering, scalable application development, and solving real-world problems**
-- 🚀 Building **Full-Stack Web Applications, Java Projects, and AI-powered solutions**
-- 📚 Strengthening my understanding of **DBMS, Operating Systems, Computer Networks, and Software Engineering Fundamentals**
-- 👨‍💻 **[Explore My Projects](https://github.com/vinaymNadig?tab=repositories)**
-- 💬 Ask me about **Java, DSA, Full-Stack Development, Git & GitHub, DBMS, and Generative AI**
-- 📫 Reach me at **<a href="mailto:vinaynadig27@gmail.com">vinaynadig27@gmail.com</a>**
-- ⚡ **Fun Fact:** I enjoy transforming ideas into real-world software solutions.
-
----
 
 ## 🚀 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 • 𝗦𝗸𝗶𝗹𝗹𝘀
 
