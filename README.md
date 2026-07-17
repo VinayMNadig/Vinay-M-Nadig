@@ -37,7 +37,7 @@ Passionate about building scalable software, solving complex engineering problem
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vinaymNadig&label=Profile%900Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=vinaymNadig&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
